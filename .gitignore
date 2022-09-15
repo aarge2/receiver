@@ -1,0 +1,7 @@
+build/
+.settings/
+esp_idf_components
+.cproject
+.project
+CMakeLists.txt
+LICENSE
