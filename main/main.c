@@ -28,7 +28,6 @@
 const char *err_modbus = "Err1";
 const char *err_lora = "Err2";
 
-
 // lora vars
 lora_t radio;
 uint16_t lora_msg_size = 0;
